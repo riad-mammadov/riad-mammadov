@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Riad 👋</h1>
 <h3 align="center">An aspiring software engineer ready to make an impact!</h3>
 
-- 🔭 I’m currently working on [QAHub](https://github.com/riad-mammadov/QAHub)
-
 - 👨‍💻 All of my projects are available at [https://riadmammadov.co.uk](https://riadmammadov.co.uk)
 
 - 📫 How to reach me **riad.mammadov@outlook.com**
